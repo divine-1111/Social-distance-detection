@@ -18,6 +18,7 @@ All the required libraries are included in the file <code>requirements.txt</code
 ## 🚀**Installation**
 Step-1: Clone this repository
 ```
+$ git clone https://github.com/divine-1111/Social-distance-detection
 ```
 Step-2: Download the YOLOv3 model weight & configuration file from [here](https://pjreddie.com/darknet/yolo/).
 ```
